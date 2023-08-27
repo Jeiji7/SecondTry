@@ -1,0 +1,16 @@
+{
+    "name": "ShootingAndEnemys",
+    "rootNamespace": "ShootingAndEnemys",
+    "references": [
+        "GUID:6bb050e319f5ff24cb3718ac01f4fce8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
